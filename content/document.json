@@ -1,0 +1,114 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "C5CBAB1C-28F7-49D7-9289-07EB524C55BC",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "0e59eb61-d3fe-11eb-8473-393b94b1dfe3",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "C9192328-9F24-41A0-801B-AC57621E7726",
+      "fontFamilyName": "Gmarket Sans",
+      "fontFileName": "GmarketSansLight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "GmarketSansLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CAC15B56-3380-4419-A6D1-FC9549D67028",
+      "fontFamilyName": "Gmarket Sans",
+      "fontFileName": "GmarketSansBold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "GmarketSansBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E0E7DF40-25AA-492F-8589-D95F0BD1AFBF",
+      "fontFamilyName": "Gmarket Sans",
+      "fontFileName": "GmarketSansMedium.otf",
+      "options": 2,
+      "postscriptNames": [
+        "GmarketSansMedium"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+    {
+      "_class": "MSImmutableForeignSwatch",
+      "do_objectID": "EDB50C3E-6085-4485-AEEF-C7FDF6DE1A12",
+      "libraryID": "B924F2D8-6FEA-4146-AC3A-A7E70219F118",
+      "localSwatch": {
+        "_class": "swatch",
+        "do_objectID": "3A43EDD8-8222-4A12-8986-0023BE8D24ED",
+        "name": "1. Ruby",
+        "value": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1254901960784314,
+          "green": 0.1254901960784314,
+          "red": 0.8784313725490196
+        }
+      },
+      "remoteSwatchID": "E5690B0F-1A88-4571-8173-CFDAA260A916",
+      "sourceLibraryName": "Migrated Global Colors",
+      "symbolPrivate": false
+    }
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "2165CE4F-D1E5-11EB-8473-32399490A68E",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "71.2",
+    "build": 115329,
+    "version": 136
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "3769CA4F-D1E5-11EB-8473-32399490A882",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
