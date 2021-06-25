@@ -60,10 +60,6 @@
   "layers": [
     {
       "class": "text",
-      "id": "FC291A84-D08A-4E8F-ACCE-8A97D65AC7A9"
-    },
-    {
-      "class": "text",
       "id": "C5282434-FB40-4694-BCAA-08D5185CC139"
     },
     {
@@ -79,8 +75,12 @@
       "id": "3F84D569-B947-40E0-BA1D-B67CD316AEBB"
     },
     {
-      "class": "bitmap",
-      "id": "919481D5-0819-426A-826B-844169B9CB1B"
+      "class": "text",
+      "id": "55FEA198-6E5E-4944-BF96-6B19B5BFBACB"
+    },
+    {
+      "class": "group",
+      "id": "421D290E-4A92-4CC0-93F4-BC59801A976F"
     }
   ],
   "name": "3",
