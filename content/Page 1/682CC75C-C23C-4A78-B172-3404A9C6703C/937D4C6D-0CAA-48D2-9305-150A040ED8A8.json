@@ -1,8 +1,9 @@
 {
-  "_class": "group",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "EB9EB0F4-DFA4-41B1-AA75-82A9BB7C2ECE",
+  "do_objectID": "937D4C6D-0CAA-48D2-9305-150A040ED8A8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,36 +13,29 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 40.00000000000001,
-    "width": 39.48608606504365,
-    "x": 0.00004332943444058573,
-    "y": 0
+    "constrainProportions": true,
+    "height": 3600,
+    "width": 4308.661417322835,
+    "x": -2,
+    "y": -1200
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/1a1a35126f340cf5abc189c7d9225b335ee27016.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapePath",
-      "id": "1A0955E8-078C-4614-B4C0-980DFBC76DA0"
-    },
-    {
-      "class": "shapePath",
-      "id": "CD14EDC6-B520-428F-8D2B-49CDC4FD8556"
-    }
-  ],
-  "name": "Group 3",
+  "name": "Bitmap",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -81,7 +75,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E687334C-D6FB-41F6-AEAB-FD5077485C52",
+    "do_objectID": "4ED1DA55-7A86-4BEF-92BE-0F6BB5EC80A0",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +86,24 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 3600,
+            "enabled": 1,
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 4308.662
+          },
+          "automatic": 1,
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
   }
 }

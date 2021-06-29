@@ -29,6 +29,26 @@
   "fontReferences": [
     {
       "_class": "fontReference",
+      "do_objectID": "0F22D64A-5B40-494F-AA81-9DA881A8285B",
+      "fontFamilyName": "Godo",
+      "fontFileName": ".f0d01a3cd730b18092bd2b59359082ba.otf",
+      "options": 0,
+      "postscriptNames": [
+        "GodoM"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "49426365-978C-42CD-B086-4634C034052F",
+      "fontFamilyName": "Godo",
+      "fontFileName": ".1ab22bc26be1565fea7361b181247f15.otf",
+      "options": 2,
+      "postscriptNames": [
+        "GodoB"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "C9192328-9F24-41A0-801B-AC57621E7726",
       "fontFamilyName": "Gmarket Sans",
       "fontFileName": "GmarketSansLight.otf",

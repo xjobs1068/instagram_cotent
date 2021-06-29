@@ -1,11 +1,27 @@
 {
-  "_class": "group",
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "EB9EB0F4-DFA4-41B1-AA75-82A9BB7C2ECE",
+  "do_objectID": "5E60F549-23C6-4C77-8317-29E3E23A9224",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -15,38 +31,55 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 40.00000000000001,
-    "width": 39.48608606504365,
-    "x": 0.00004332943444058573,
-    "y": 0
+    "height": 1200,
+    "width": 1200,
+    "x": 2855,
+    "y": 1285
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "1A0955E8-078C-4614-B4C0-980DFBC76DA0"
+      "class": "bitmap",
+      "id": "034A1E8D-C688-46A7-85F1-C067D9BC39E1"
     },
     {
-      "class": "shapePath",
-      "id": "CD14EDC6-B520-428F-8D2B-49CDC4FD8556"
+      "class": "rectangle",
+      "id": "255ED864-B2C1-4F0C-B5B7-95D849F419A4"
+    },
+    {
+      "class": "text",
+      "id": "ABD3E921-82C2-44C4-ADF5-7FBEC2FB1978"
     }
   ],
-  "name": "Group 3",
-  "nameIsFixed": false,
+  "name": "feed-4",
+  "nameIsFixed": true,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "blur": {
@@ -81,7 +114,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "E687334C-D6FB-41F6-AEAB-FD5077485C52",
+    "do_objectID": "0644D96D-8A59-40B6-979C-AC87A8B28D52",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -92,5 +125,11 @@
     ],
     "startMarkerType": 0,
     "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
   }
 }
