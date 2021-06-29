@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "GodoB",
-              "size": 200
+              "name": "SDPress-aOriginal",
+              "size": 140
             }
           },
           "kerning": 0,
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 226,
-    "width": 581,
-    "x": 309,
-    "y": 487
+    "height": 154,
+    "width": 598,
+    "x": 301,
+    "y": 523
   },
-  "glyphBounds": "{{11, 22}, {559, 159}}",
+  "glyphBounds": "{{6, 10}, {606, 123}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -128,8 +128,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "GodoB",
-            "size": 200
+            "name": "SDPress-aOriginal",
+            "size": 140
           }
         },
         "kerning": 0,
