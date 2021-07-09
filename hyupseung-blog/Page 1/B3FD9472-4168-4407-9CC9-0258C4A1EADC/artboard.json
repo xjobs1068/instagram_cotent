@@ -3,13 +3,13 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.9607843137254902,
-    "green": 0.9607843137254902,
-    "red": 0.9607843137254902
+    "blue": 1,
+    "green": 1,
+    "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "AB275CBB-C45B-4B71-B1F6-79684D79E0C4",
+  "do_objectID": "B3FD9472-4168-4407-9CC9-0258C4A1EADC",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -31,21 +31,33 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1200,
-    "width": 1200,
-    "x": -911,
-    "y": 1312
+    "height": 1445,
+    "width": 2000,
+    "x": -73,
+    "y": -99
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": true,
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      1491,
+      509,
+      525,
+      695,
+      711,
+      881,
+      897,
+      1067,
+      1083,
+      1253,
+      1269,
+      1439
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -59,39 +71,75 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "bitmap",
-      "id": "F5909D36-0C93-424D-909E-A59A4CE8D03E"
+      "class": "group",
+      "id": "A7A3BF63-414E-4D1B-AE00-807AED33054E"
     },
     {
-      "class": "text",
-      "id": "9A7BC2C1-F3D9-4F1F-942B-4CC5FDD93359"
+      "class": "rectangle",
+      "id": "1ABF7525-C431-4A15-98E6-9E72AE402882"
+    },
+    {
+      "class": "rectangle",
+      "id": "BFEEE78B-5B0B-44EF-B483-606B4F5A883F"
+    },
+    {
+      "class": "rectangle",
+      "id": "4AD03B0A-745F-44A5-B241-574D1E1D2BDA"
+    },
+    {
+      "class": "rectangle",
+      "id": "9F143F8B-37A9-4586-888F-C2E8D8B90059"
+    },
+    {
+      "class": "rectangle",
+      "id": "C67506BE-FBFE-49DE-8E67-EC22756AF354"
+    },
+    {
+      "class": "rectangle",
+      "id": "58356F6F-5929-4C2F-B15D-6B6FC0475FEC"
+    },
+    {
+      "class": "rectangle",
+      "id": "BC761561-FD97-4C40-B57C-C6079368D892"
+    },
+    {
+      "class": "rectangle",
+      "id": "BBA5D7F2-4A6A-45CB-8900-99A43AB65108"
+    },
+    {
+      "class": "rectangle",
+      "id": "9F7AE0A4-0A7C-4629-8AC6-F617D955FBDD"
+    },
+    {
+      "class": "rectangle",
+      "id": "7B7F6DD9-7327-4553-AEEF-D320A7664F47"
     },
     {
       "class": "group",
-      "id": "8AEAB484-72B3-4F8D-8B77-0F1F9F49B349"
+      "id": "3BA9E1A8-BACA-410E-991D-9412384863D3"
     },
     {
       "class": "group",
-      "id": "9FE46420-6500-4D0C-8441-E2713EFE9752"
+      "id": "049E0506-361D-4260-BFC8-C3F2DC80A37C"
     },
     {
       "class": "group",
-      "id": "00D20C01-C62E-4E67-A242-541229C3FA74"
+      "id": "C9467801-319A-4B54-96EB-E679380C3939"
     },
     {
       "class": "group",
-      "id": "2E405920-F3F2-4DAF-9328-595DBC2414BD"
-    },
-    {
-      "class": "text",
-      "id": "644DAFF9-E56A-4596-BD61-D9E638D2F7AB"
+      "id": "0E6FC9EB-EFBF-4107-9754-DBFA6BE291B9"
     },
     {
       "class": "group",
-      "id": "6BA4288A-1D0D-4DB7-A466-C2D4758C7EE9"
+      "id": "2CBCFDD2-0CF5-4236-9B9A-94D3E5CBF6F4"
+    },
+    {
+      "class": "group",
+      "id": "E29F4727-59D1-48C9-A98B-284AF9B0C0B8"
     }
   ],
-  "name": "1-1",
+  "name": "협승지하수_네이버블로그",
   "nameIsFixed": true,
   "presetDictionary": {
   },
@@ -134,7 +182,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "87D6E12F-FB06-4C36-8209-EE50B087FE96",
+    "do_objectID": "3738A0AF-DEDF-4EBE-9187-D0BC40CC8EBA",
     "endMarkerType": 0,
     "fills": [
     ],
