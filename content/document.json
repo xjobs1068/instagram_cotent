@@ -29,6 +29,58 @@
   "fontReferences": [
     {
       "_class": "fontReference",
+      "do_objectID": "595F99DA-3930-469A-A070-EF96DC0C0CDF",
+      "fontFamilyName": "Godo",
+      "fontFileName": ".1ab22bc26be1565fea7361b181247f15.otf",
+      "options": 0,
+      "postscriptNames": [
+        "GodoB"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "651EE4E0-44C9-42BC-862A-44FFBCB5F704",
+      "fontFamilyName": "Godo",
+      "fontFileName": ".f0d01a3cd730b18092bd2b59359082ba.otf",
+      "options": 0,
+      "postscriptNames": [
+        "GodoM"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7D8085F5-54A3-45B4-AA7A-31831664AEA2",
+      "fontFamilyName": "Sandoll Press",
+      "fontFileName": ".2503da7bf3cb290fce2703b53d008234.otf",
+      "options": 0,
+      "postscriptNames": [
+        "SDPress-bBasic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "93CA49DC-9B1D-4C39-AC10-35708BF4DE85",
+      "fontFamilyName": "Sandoll Press",
+      "fontFileName": ".48bf91943d45fcf30af11634efb946d3.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SDPress-aOriginal"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9A197F92-0DD6-4556-A2A1-E9EACADEE614",
+      "fontFamilyName": "Nanum Gothic",
+      "fontFileName": "NanumGothic.ttc",
+      "options": 0,
+      "postscriptNames": [
+        "NanumGothic",
+        "NanumGothicBold",
+        "NanumGothicExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "C9192328-9F24-41A0-801B-AC57621E7726",
       "fontFamilyName": "Gmarket Sans",
       "fontFileName": "GmarketSansLight.otf",
@@ -56,31 +108,21 @@
       "postscriptNames": [
         "GmarketSansMedium"
       ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E45B5315-D70E-4DE5-997B-89850A0D70A8",
+      "fontFamilyName": "Sandoll CheongRyu",
+      "fontFileName": ".876a86e29ad2939feb4ad827140b1480.otf",
+      "options": 2,
+      "postscriptNames": [
+        "SDCheongRyu"
+      ]
     }
   ],
   "foreignLayerStyles": [
   ],
   "foreignSwatches": [
-    {
-      "_class": "MSImmutableForeignSwatch",
-      "do_objectID": "EDB50C3E-6085-4485-AEEF-C7FDF6DE1A12",
-      "libraryID": "B924F2D8-6FEA-4146-AC3A-A7E70219F118",
-      "localSwatch": {
-        "_class": "swatch",
-        "do_objectID": "3A43EDD8-8222-4A12-8986-0023BE8D24ED",
-        "name": "1. Ruby",
-        "value": {
-          "_class": "color",
-          "alpha": 1,
-          "blue": 0.1254901960784314,
-          "green": 0.1254901960784314,
-          "red": 0.8784313725490196
-        }
-      },
-      "remoteSwatchID": "E5690B0F-1A88-4571-8173-CFDAA260A916",
-      "sourceLibraryName": "Migrated Global Colors",
-      "symbolPrivate": false
-    }
   ],
   "foreignSymbols": [
   ],
